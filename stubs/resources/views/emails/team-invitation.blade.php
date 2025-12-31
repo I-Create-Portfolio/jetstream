@@ -11,7 +11,7 @@
 {{ __('If you already have an account, you may accept this invitation by clicking the button below:') }}
 
 @else
-{{ __('You may accept this invitation by clicking the button below:') }}
+{{ __('You may accept thisssssssss invitation by clicking the button below:') }}
 @endif
 
 
